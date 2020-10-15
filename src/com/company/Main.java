@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
 
-        MostraFitxers test = new MostraFitxers();
+        System.out.println("Aquí no hay nada");
+        // . . . .
 
 
     }
